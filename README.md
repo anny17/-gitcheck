@@ -1,0 +1,2 @@
+# -gitcheck
+none
